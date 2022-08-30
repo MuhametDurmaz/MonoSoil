@@ -1,5 +1,6 @@
 # MonoSoil
     Monosoil is a virtual board game inspired by the well-known game Monopoly. 
+    The entire code is written by Muhammet Durmaz and Ahmet Dolma. 
     Players compete with each other by answering questions related to the basic concepts of soil mechanics. 
     The questions cover a wide range of topics, from theoretical concepts to laboratory tests. 
     The game has been developed via MATLAB GUI, allowing players to experience an interactive learning session. 
@@ -14,4 +15,4 @@
     - The code is written in MATLAB 2018a. Therefore, error messages may arise when the code is run in other versions.
     - Depending on your screen size, the game interface may not open properly. To fix it, right click on the "figure.m" file and select "open in guide" to open it. Then you can adjust the location and size of the buttons. 
     - Read the paper in "Monosoil_GeoCongress_2022.pdf" to learn how to play. 
-    - You can modify the excel files to add more questions to the game. But make sure that you do not change the name of the excel files and the headers in the tables. 
+    - You can modify the excel files to add more questions to the game. But make sure that you do not change the name of the excel files and the headers in the tables.
